@@ -1,2 +1,2 @@
-# CppInterviewChallenges
- Repository of interview programming questions and their solutions
+# CppProgrammingChallenges
+ Repository of C++ programming challenges and their solutions
